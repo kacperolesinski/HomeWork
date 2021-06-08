@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\HomeWork.Core\HomeWork.Core.csproj" />
+    <ProjectReference Include="..\HomeWork.Core\HomeWork.Client.Core.csproj" />
   </ItemGroup>
 
 </Project>
